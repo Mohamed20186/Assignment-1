@@ -7,3 +7,8 @@ function delaySuccess(success) {
 }
 
 console.log(delaySuccess('Success!').then(result => console.log(result)));
+
+
+
+
+
